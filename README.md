@@ -1,24 +1,38 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Part 2 of rails tutorials
 
-Things you may want to cover:
+This is the second part of the
+[*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+Download the files locally and run them through the browser with Rails
+https://rubyonrails.org/
 
-* Configuration
+### Prerequisites
 
-* Database creation
+* Ruby on rails
 
-* Database initialization
+### Installing
 
-* How to run the test suite
+* Install Rails (`gem install rails` to install rails locally,`rails -v` to ensure that it's installed)
+* Navigate to the directory and run `rails -projectname-` to start the project
 
-* Services (job queues, cache servers, search engines, etc.)
+## Running the tests
 
-* Deployment instructions
+Because this is a tutorial, I didn't write any tests
 
-* ...
+## Built With
+
+* Ruby on rails (https://rubyonrails.org/) - The web framework used
+
+## Authors
+
+* **Stefen Dahlgren** - *Initial work* - [PurpleBooth](https://github.com/Choadis)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
